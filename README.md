@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elija-lambourne&show_icons=true&locale=en&layout=compact" alt="elija-lambourne" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elija-lambourne&show_icons=true&locale=en" alt="elija-lambourne" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elija-lambourne&show_icons=true&bg_color=000000&locale=en" alt="elija-lambourne" /></p>
