@@ -5,4 +5,4 @@
 
 - 💬 Ask me about **C#, JavaScript or the DiscordAPI**
 
-- 📫 You can reach me via discord **(probablydiary#5153)** or e-mail **lambourne@insidiousgames.com**
+- 📫 You can reach me via discord **(probablydiary#5153)** or e-mail **elija@lambourne.at**
